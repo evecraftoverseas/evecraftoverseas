@@ -13,17 +13,26 @@
 <body>
     <div class="sticky-header">
         <header>
-            <nav>
-                <div class="dropdown">
-                    <button class="dropbtn">Menu</button>
-                    <div class="dropdown-content">
-                        <a href="#home">HOME</a>
-                        <a href="#products">PRODUCTS</a>
-                        <a href="#about">ABOUT US</a>
-                    </div>
+            <nav role="navigation">
+                <div id="menuToggle">
+                    <input type="checkbox" />
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <ul id="menu">
+                        <a href="#home">
+                            <li>HOME</li>
+                        </a>
+                        <a href="#products">
+                            <li>PRODUCTS</li>
+                        </a>
+                        <a href="#about">
+                            <li>ABOUT US</li>
+                        </a>
+                    </ul>
                 </div>
                 <a href="#home"><img class="logo" src="assest/logo.png" alt="" /></a>
-                <ul>
+                <ul class="pc-nav">
                     <li><a href="#home">HOME</a></li>
                     <li><a href="#products">PRODUCTS</a></li>
                     <li><a href="#about">ABOUT US</a></li>

@@ -2,7 +2,7 @@ const products = [
     {
         imageSrc: 'https://s.alicdn.com/@sc04/kf/H84b649720a684601b599d2c4133ebec5O.jpeg',
         hoverImageSrc: 'https://s.alicdn.com/@sc04/kf/H28797485ad0f496baee40cbe0535b7b2k.jpeg',
-        title: 'White Ceramic Vase Silhouette Style Contemporary Nordic Decoration',
+        title: 'Silhouette Style White Ceramic Vase',
         price: 'RS.499.00',
         originalPrice: 'RS. 1799.00',
         link: '#prod1',
@@ -10,7 +10,7 @@ const products = [
     {
         imageSrc: 'https://s.alicdn.com/@sc04/kf/A9dc0ff36201a4c46b5311813e73b22b3g.jpg',
         hoverImageSrc: 'https://s.alicdn.com/@sc04/kf/A1145b89afe1e4747a69fbde32cb65fbaw.jpg',
-        title: 'Carrara Charcoal Planter With Coaster Ceramic Planter Decorative Planter Flowerpot',
+        title: 'Carrara Charcoal Planter With Coaster',
         price: 'RS.499.00',
         originalPrice: 'RS. 1799.00',
         link: '#prod2'
